@@ -1,3 +1,4 @@
 File1: Line1
 Line2
 Added from "tutorial" repository.
+pull remote repository
